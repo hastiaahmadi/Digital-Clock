@@ -6,6 +6,7 @@
 - نمایش ساعت، دقیقه و ثانیه
 - قالب ۲۴ ساعته
 - قابلیت نمایش ساعت به صورت Real-Time
+- طراحی ریسپانسیو و سازگار با دستگاه‌های مختلف
 - قابلیت تغییر رنگ بکگراند و ساعت با تغییر زمان روز و شب
 
 تکنولوژی‌ها:
@@ -33,6 +34,7 @@ Features:
 - Displays hours, minutes, and seconds.
 - 24-hour format.
 - Real-time updates.
+- Responsive design compatible with various devices.
 - Dynamic background and clock color changes based on day/night time.
 
 Technologies:
